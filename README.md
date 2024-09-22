@@ -14,6 +14,6 @@ PHP5.6 删除禁用shell_exe函数 对应版本Redis 基于番茄web服务而集
 手搓后端,缓存功能,KEY功能,邮箱注册KEY,日请求限制,KEY限制一小时不同IP数量,其他功能待定
 
 ### 预览截图
-![image](q.png)
+![image](AA470480-A671-4F13-8A9F-C49375E5F777.jpeg)
 ![image](h.png)
-![image]z.png)
+![image](.png)
